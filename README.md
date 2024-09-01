@@ -8,21 +8,26 @@ Two CSV datasets are being used to generate the TFLs and summary, both located i
 3.	Data Cleaning and Preprocessing:
 Any potential duplicate information in the data was identified and addressed. Specifically, duplicate data for Mouse g989 was removed before proceeding with the analyses.
 4.	Data Visualization Techniques and results
-- Summary statistics by Drug Regimen-
+- Summary statistics by https://github.com/Lenguyen84/Pymaceuticals_challenge/blob/main/Pymaceuticals/Output/Summary%20Statistics%20by%20Drug%20Regimen-.pngDrug Regimen-
  
 - Bar charts - Total Observed Mouse Timepoints per Drug Regimen
- 
+https://github.com/Lenguyen84/Pymaceuticals_challenge/blob/main/Pymaceuticals/Output/Bar%20charts%20-%20Total%20Observed%20Mouse%20Timepoints%20per%20Drug%20Regimen.png
+
 - Pie charts - The distribution of female versus male mice
- 
+https://github.com/Lenguyen84/Pymaceuticals_challenge/blob/main/Pymaceuticals/Output/Pie%20charts%20-%20The%20distribution%20of%20female%20versus%20male%20mice.png
 - Box and Whisker plots - The distribution of the tumor volume for each treatment group
- 
+https://github.com/Lenguyen84/Pymaceuticals_challenge/blob/main/Pymaceuticals/Output/Box%20and%20Whisker%20plots%20-%20The%20distribution%20of%20the%20tumor%20volume%20for%20each%20treatment%20group.png
+
 - Line plot - Tumor volume vs. time point for a single mouse treated with Capomulin
- 
+https://github.com/Lenguyen84/Pymaceuticals_challenge/blob/main/Pymaceuticals/Output/Line%20plot%20-%20Tumor%20volume%20vs.%20time%20point%20for%20a%20single%20mouse%20treated%20with%20Capomulin.png
+
 - Scatter plots:
 Mouse weight vs. the average observed tumor volume for the entire Capomulin regimen
- 
+https://github.com/Lenguyen84/Pymaceuticals_challenge/blob/main/Pymaceuticals/Output/Mouse%20weight%20vs.%20the%20average%20observed%20tumor%20volume%20for%20the%20entire%20Capomulin%20regimen.png
+
 The correlation between mouse weight and the average tumor volume is: 0.84.
- 
+https://github.com/Lenguyen84/Pymaceuticals_challenge/blob/main/Pymaceuticals/Output/The%20correlation%20between%20mouse%20weight%20and%20the%20average%20tumor%20volume.png
+
 5.	 Analysis
 Overall, the summary of some high-level points about the results of the drug Capomulin compared to Ramicane and other drug products. Here’s a breakdown of the key points:
 Capomulin and Ramicane have more observed timepoints than other treatments. It's suggested that further exploration is needed to determine if this is due to better tolerance by the mice, potentially leading to more time on the regimen. Investigating early mortality data during treatment might provide valuable insights for future drug development. Tumor Volumes:
