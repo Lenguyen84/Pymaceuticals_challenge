@@ -34,6 +34,6 @@ Capomulin and Ramicane have more observed timepoints than other treatments. It's
 Capomulin and Ramicane result in lower final tumor volumes compared to at least two other regimens. This may indicate a partial response to the drug. Additional data could help finalize critical drug decisions, such as determining the optimal duration of treatment, dose, formulation, etc. Correlation Between Mouse Weight and Tumor Volume:
 A strong correlation is observed between mouse weight and the average tumor volume in the Capomulin group. Further exploration of other factors, such as gender or genetic variables, could provide more insights into the treatment effects of Capomulin.
 6.	References 
-Python code file pymaceuticals_final.ipynb is in pymaceuticals folder
-Datasets are filed in the data folder
-Expert learning assistant tool
+ Python code file pymaceuticals_final.ipynb is in pymaceuticals folder
+ Datasets are filed in the data folder
+ Expert learning assistant tool
